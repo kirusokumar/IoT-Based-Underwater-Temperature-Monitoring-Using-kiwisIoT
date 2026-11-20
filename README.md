@@ -66,7 +66,7 @@ Website: https://www.kiwisiot.in/
 
 Arduino Library: https://github.com/Kiwistron/KiwisIoT
 
-Project Examples: https://github.com/Kiwistron/KiwisIoT-Projects/tree/main
+Project Examples: https://github.com/Kiwistron/KiwisIoT-Projects/
 
 ## Author
 
